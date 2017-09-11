@@ -1,1 +1,1 @@
-# Coursera Getting and cleaning data
+# Coursera Course Project - Getting and cleaning data
